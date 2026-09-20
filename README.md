@@ -192,18 +192,6 @@ The current GitHub repository contains these source files and the `output` direc
 C
 ```
 
-### Concepts
-
-```text
-Data Structures
-Algorithms
-Recursion
-Searching
-Sorting
-Divide and Conquer
-Algorithmic Complexity
-```
-
 ### Development Environment
 
 The programs can be compiled using a standard C compiler such as:
@@ -239,7 +227,7 @@ program.exe
 
 ---
 
-# 🤓 Interesting DSA Facts
+# Interesting DSA Facts
 
 ### 🔹 1. Binary Search is extremely efficient
 
@@ -348,44 +336,6 @@ Because in programming:
 
 ---
 
-# 🧪 Learning Workflow
-
-A recommended way to use this repository:
-
-```text
-Read the problem
-      ↓
-Understand the algorithm
-      ↓
-Write pseudocode
-      ↓
-Implement in C
-      ↓
-Compile
-      ↓
-Test with different inputs
-      ↓
-Analyze complexity
-      ↓
-Optimize if required
-```
-
----
-
-# 📌 Academic Use
-
-This repository is intended primarily for:
-
-* Data Structures & Algorithms laboratory work
-* C programming practice
-* Academic demonstrations
-* Algorithm experimentation
-* Learning algorithmic complexity
-* Building foundational programming skills
-
-Students are encouraged to **understand the logic and implement the algorithms themselves**, rather than treating the repository as a collection of code to copy without understanding.
-
----
 
 # 📜 License
 
