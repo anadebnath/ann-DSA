@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/anamikadebnath/Documents/DSA/output/binary search with unsorted array'
+relocations:     []
+...
