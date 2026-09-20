@@ -211,11 +211,6 @@ On Windows:
 ```bash
 program.exe
 
-On Mac :
-
-```gcc filename.c -o program
-./program
-
 ---
 
 # 🧠 Complexity Cheat Sheet
