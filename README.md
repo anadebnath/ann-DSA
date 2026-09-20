@@ -210,7 +210,11 @@ On Windows:
 
 ```bash
 program.exe
-```
+
+On Mac :
+
+```gcc filename.c -o program
+./program
 
 ---
 
@@ -224,9 +228,6 @@ program.exe
 | Merge Operation |       O(n) |       O(n) |     O(n) |
 
 > Complexity can depend on the exact implementation and input characteristics.
-
----
-
 
 ---
 
@@ -304,44 +305,6 @@ laboratory work, experimentation, and personal study.
 No warranty is provided.
 Use in production environments is not recommended.
 ```
-
----
-
-# 🌱 Future Scope
-
-The repository can be extended with implementations of:
-
-* Arrays
-* Linked Lists
-* Stacks
-* Queues
-* Circular Queues
-* Trees
-* Binary Search Trees
-* Heaps
-* Hash Tables
-* Graphs
-* BFS
-* DFS
-* Dijkstra's Algorithm
-* Minimum Spanning Trees
-* Dynamic Programming
-* Greedy Algorithms
-* Advanced Sorting Algorithms
-
----
-
-# ⭐ Repository Goal
-
-The ultimate goal of `ann-DSA` is simple:
-
-```text
-Learn → Implement → Analyze → Debug → Improve
-```
-
-DSA isn't just about writing code.
-
-It's about learning how to **think computationally**.
 
 ---
 
