@@ -40,5 +40,4 @@ Stack
    ↓
 Queue
 
- helps you understand DSA concepts, consider giving it a star.
-</div> ```
+
