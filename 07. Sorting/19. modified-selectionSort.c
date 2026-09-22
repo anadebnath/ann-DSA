@@ -53,7 +53,7 @@ int main() {
     return 0;
 }
 /*
- * Sample run:
+ * Output:
  * Enter number of elements: 5
  * Enter 5 elements: 2 1 3 4 5 
  * Iteration 1 : 1 2 3 4 5
